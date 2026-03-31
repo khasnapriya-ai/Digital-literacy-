@@ -1,8 +1,3 @@
-# Digital-literacy-
-Here’s a complete draft of your Digital Literacy Project Report and README file based on the assignment brief. You can copy these into your GitHub repository and adjust with your personal details, screenshots, and links.
-
-
-📘 README.md (GitHub Repository)
 # Digital Literacy Project – CSE0001
 
 ## Student Details
